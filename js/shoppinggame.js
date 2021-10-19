@@ -306,7 +306,8 @@ function init(data) {
         rateAndExit();
     };
 
-    // Uncomment this function once you fully implement the game to be able to run it
+    // TODO Uncomment this function once you fully implement the game to be able to run it
+    // TODO Then run node ./js/shoppinggame.js
     // (function setGameCompleteFlag(){
     //     gameComplete = true;
     // })();
